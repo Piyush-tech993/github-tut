@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: crimson;
+    color: #fff;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+p{
+    width: 200px;
+    background-color: black;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    cursor: pointer;
+}
