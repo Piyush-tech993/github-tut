@@ -22,11 +22,11 @@ div{
 p{
     width: 200px;
     background-color: black;
-    margin: 20px;
     padding: 10px;
     border-radius: 10px;
     border: 2px solid #fff;
     cursor: pointer;
+    margin: 10px;
 }
 
 @media screen and (max-width: 798px) {
